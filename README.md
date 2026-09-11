@@ -28,7 +28,7 @@ matching the artifact it came from.
 
 <p align="center">
   <a href="https://supply-chain-ui-bhwz.onrender.com">
-    <img src="https://raw.githubusercontent.com/alessiopagliarulo/supply-chain-optimizer/main/docs/screenshots/optimize-four-strategies.png" width="820" alt="supply-chain-optimizer — four sourcing strategies compared">
+    <img src="https://raw.githubusercontent.com/alessiopagliarulo/alessiopagliarulo/main/docs/hero-map.png" width="820" alt="supply-chain-optimizer — an optimized three-stop sourcing route from Dallas through Jackson and Atlanta to the factory">
   </a>
 </p>
 
