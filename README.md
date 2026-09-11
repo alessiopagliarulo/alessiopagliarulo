@@ -28,7 +28,7 @@ matching the artifact it came from.
 
 <p align="center">
   <a href="https://supply-chain-ui-bhwz.onrender.com">
-    <img src="https://raw.githubusercontent.com/alessiopagliarulo/supply-chain-optimizer/main/docs/screenshots/sc-dashboard.png" width="820" alt="supply-chain-optimizer dashboard">
+    <img src="https://raw.githubusercontent.com/alessiopagliarulo/supply-chain-optimizer/main/docs/screenshots/optimize-four-strategies.png" width="820" alt="supply-chain-optimizer — four sourcing strategies compared">
   </a>
 </p>
 
@@ -39,11 +39,13 @@ Rockafellar-Uryasev linearization, an intermittent-demand forecasting benchmark 
 spare-parts series, and a model CI suite that asserts published numbers match committed artifacts
 byte-for-byte.
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/OR--Tools_CP--SAT-4285F4?style=flat-square&logo=google&logoColor=white" alt="OR-Tools CP-SAT">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-<img src="https://img.shields.io/badge/MIT-4A4A4A?style=flat-square" alt="MIT">
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/OR--Tools_CP--SAT-4285F4?style=flat-square&logo=google&logoColor=white" alt="OR-Tools CP-SAT">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/MIT-4A4A4A?style=flat-square" alt="MIT">
+</p>
 
 ---
 
